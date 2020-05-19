@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ddd;
+  box-shadow: 3px 3px 15px 8px rgb(240, 239, 239);
+  padding: 1rem;
+  width: 23rem;
+  height: 35rem;
+  margin: 1rem;
+}
+
+.profile-pic {
+border: 1px solid #ddd;
+height: 20rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+}
+
+.details {
+  border: 1px solid #ddd;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
